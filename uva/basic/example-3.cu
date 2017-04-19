@@ -29,8 +29,10 @@ int main()
 	*
 	*   ANSWER_3_5:
 	*
-	*   GeForce GTX TITAN X: 	1024 1024 64 threads per block
-	*   GeForce GTX TITAN Black:1024 1024 64 blocks per dim
+	*   GeForce GTX TITAN X: 	
+	*	(1024,1024,64) max blocks per dimension
+	*   GeForce GTX TITAN Black:
+	*	(1024,1024,64) max blocks per dimension
 	*
 	***********************************************************************/
 
